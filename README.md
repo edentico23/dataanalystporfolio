@@ -2,25 +2,32 @@
 
 
 Profile
-Aspiring Data Analyst with a solid foundation in data analysis techniques gained from Eskwelabs Data Analytics Bootcamp. Proficient in analyzing complex datasets, extracting meaningful insights, and presenting findings to stakeholders,  eager to leverage analytical skills and practical experience to contribute effectively in a dynamic data-driven environment.
-Key Skills:
+
+### Aspiring Data Analyst with a solid foundation in data analysis techniques gained from Eskwelabs Data Analytics Bootcamp. Proficient in analyzing complex datasets, extracting meaningful insights, and presenting findings to stakeholders,  eager to leverage analytical skills and practical experience to contribute effectively in a dynamic data-driven environment.
+
+### Key Skills:
+
 	Data Analysis & Visualization
 	Statistical Analysis & Interpretation
 	SQL & Database Management
 	Excel & Python for Data Analysis
 	Data Cleaning & Transformation
 	Dashboard Creation & Reporting
-Project Portfolios:
+
+
+### Project Portfolios:
 	[Project Title]
 Description: [Briefly describe the project, emphasizing your role, tools used, and outcomes.]
 	[Project Title]
 Description: [Briefly describe the project, emphasizing your role, tools used, and outcomes.]
-Technical Proficiency:
+
+
+### Technical Proficiency:
 	Languages: SQL, Python, 
 	Tools: Excel (Advanced), Power BI, Google Looker Studio
 	Databases: MySQL, Google Big Query, IBM Cloud
 
-Certifications:
+### Certifications:
 	Foundations: Data, Data, Everywhere by Coursera
 
 	Ask Questions to Make Data-Driven Decisions by Coursera
@@ -29,7 +36,7 @@ Certifications:
 
 
 
-Education:
+### Education:
 	BACHELOR OF SCIENCE IN ELECTRONICS ENGINEERING
 Technological University of the Philippines- Visayas
 JUNE 2011- APRIL 2016
@@ -38,7 +45,7 @@ JUNE 2011- APRIL 2016
 Eskwelabs
  	April 29- June 29, 2024
 
-Professional Experience
+### Professional Experience
 	OSP Design Engineer | ZTE Philippines Inc | September 2023- February 2024
 •	Monitoring survey, design & documentation activity of Subcontractors.
 •	Meeting with Client for design specifications & requirement, and project timeline.
