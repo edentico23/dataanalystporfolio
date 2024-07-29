@@ -34,8 +34,6 @@ Description: [Briefly describe the project, emphasizing your role, tools used, a
     
 
 
-
-
 ### Education:
 	BACHELOR OF SCIENCE IN ELECTRONICS ENGINEERING
 Technological University of the Philippines- Visayas
@@ -47,6 +45,7 @@ Eskwelabs
 
 ### Professional Experience
 	OSP Design Engineer | ZTE Philippines Inc | September 2023- February 2024
+
 •	Monitoring survey, design & documentation activity of Subcontractors.
 •	Meeting with Client for design specifications & requirement, and project timeline.
 •	Coordinate with Design manager for overall project updates.
@@ -62,6 +61,7 @@ Eskwelabs
 •	Updating the project dashboard, modifying resources (people and equipment) to meet target timeframes.
 
 	Design Team Leader | Wuhan Fiberhome Int’l  Technologies Phils Inc | August 2019-November 2022
+
 •	Leading a group of OSP Design  Engineers, performing thorough site inspections, and producing sophisticated CAD designs for fiber optic networks.
 •	Checking of detailed design, Bill of Materials, and other documents.
 •	Coordination with managers and supervisors to meet project deadlines established by clients.
